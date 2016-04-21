@@ -1,0 +1,12 @@
+/* Nav */
+ul {
+	list-style: none;
+	overflow: hidden;
+}
+ul li {
+	float: right;
+	padding: 3%;
+}
+ul li a {
+	text-decoration:none;
+}
